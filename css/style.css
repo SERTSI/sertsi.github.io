@@ -1,0 +1,36 @@
+/* Amogus */
+
+html {
+	font-size: 12px;
+	font-family: "Orbitron", sans-serif;
+	background-color: #ff7700;
+	text-shadow: 0 0 2px black;
+}
+body {
+	width: 600px;
+	margin: 0 auto;
+	background-color: #ffc400;
+	padding: 0 20px 20px 20px;
+	border: 10px solid #662266;
+}
+h1 {
+	font-size: 64px;
+	text-align: center;
+	margin: 0;
+	padding: 20px 0;
+	color: #850101;
+	text-shadow: 4px 4px 4px black;
+}
+
+p,
+li {
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
+
+img {
+	height: 300px;
+	display: block;
+	margin: 0 auto;
+}
